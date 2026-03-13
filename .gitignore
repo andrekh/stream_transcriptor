@@ -3,6 +3,8 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.exe
+package-lock.json
 .Python
 env/
 ENV/
